@@ -1,0 +1,17 @@
+span {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.dog {
+    width: 159px;
+    height: 150px;
+    background-position: -5px -5px;
+}
+
+.cat {
+    width: 128px;
+    height: 128px;
+    background-position: -174px -5px;
+}
